@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a { cursor: pointer; }
+
+.app-container {
+    min-height: 350px;
+}
